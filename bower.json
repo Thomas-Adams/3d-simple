@@ -1,0 +1,21 @@
+{
+  "name": "3d-simple",
+  "description": "Examples Three.js",
+  "main": "",
+  "authors": [
+    "Thomas Adams <heinrich.adams@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/_common/js/lib/vendor",
+    "test",
+    "tests"
+  ]
+}
